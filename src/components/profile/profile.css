@@ -1,0 +1,9 @@
+.img-profile{
+	max-width: 200px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.img-profile img{
+	border-radius: 50%;
+}

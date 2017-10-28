@@ -1,0 +1,26 @@
+.nav-bar{
+	background-color: black;
+	height: 64px;
+	width: 100%;
+	padding-top: 20px;
+	margin-bottom: 50px;
+}
+
+a{
+	color:white;
+}
+
+a:visited{
+	color:white;
+}
+
+.nav-bar a{
+	margin-left: 20px;
+}
+
+.no-activo{
+	color:peru;
+}
+.activo{
+	background-color:red;
+}
